@@ -33,7 +33,7 @@ path = "src/g.rs"
 
 
 [dependencies]
-procoio = "0.4.3"
+proconio = "=0.4.3"
 # num = "0.2.1"
 # num-bigint = "0.2.6"
 # num-complex = "0.2.4"
